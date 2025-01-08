@@ -75,5 +75,6 @@ func (p *Plugin) Close() {
 }
 
 func main() {
-	plugin.Serve(&Plugin{})
+	panic("this should be built as go plugin")
+	// plugin.Serve(&Plugin{})
 }
