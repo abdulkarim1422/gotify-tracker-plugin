@@ -1,0 +1,6 @@
+id: "user-activity-tracker"
+name: "User Activity Tracker"
+author: "Abdulkarim Lahmuni"
+website: "https://github.com/abdulkarim1422"
+license: "MIT"
+description: "Tracks daily user activity and logs it for reporting."
